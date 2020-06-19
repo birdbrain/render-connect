@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Render Connect
  * Plugin URI:  https://birdbrain.com.au
- * Description: Connect your WordPress website to rednder.com. Modified from standard for Koval
+ * Description: Connect your WordPress website to Render.com. Modified from standard for Koval
  * Version:     2.0.2
  * Author:      BirdBrain
  * Author URI:  https://birdbrain.com.au
