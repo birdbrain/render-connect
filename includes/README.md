@@ -1,4 +1,4 @@
-# littlebot-netlify Includes #
+# littlebot-render Includes #
 https://www.justinwhall.com
 Copyright (c) 2018 jwind
 Licensed under the GPLv2 license.
