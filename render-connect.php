@@ -1,9 +1,9 @@
 <?php
 /**
- * Plugin Name: Render Connect
+ * Plugin Name: BirdBrain Render Connect
  * Plugin URI:  https://birdbrain.com.au
  * Description: Connect your WordPress website to Render.com. Modified from standard for Koval
- * Version:     2.0.2
+ * Version:     2.0.3
  * Author:      BirdBrain
  * Author URI:  https://birdbrain.com.au
  * Donate link: https://birdbrain.com.au
